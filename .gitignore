@@ -8,7 +8,12 @@
 .bashrc
 .profile
 .sudo_as_admin_successful
-
+.bash_history
+.bash_logout
+-bashrc
+.gitconfig
+.profile
+.sudo_as_admin_successful
 
 __pycache__/
 *.pyc
