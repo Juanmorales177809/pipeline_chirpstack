@@ -1,4 +1,31 @@
 /chirpstack-LSCR/
 /glances-venv/
+.cache/
+.cache/pip/
+.ssh/id_ed255519
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.sudo_as_admin_successful
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.tmp
+*.log
+
+.env
+*.key
+*.crt
+*.pem
+
+.DS_Store
+Thumbs.db
+desktop.ini
 
 
